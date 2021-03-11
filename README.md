@@ -1,2 +1,2 @@
 # miniPan
-Vue+Flask+Mysql
+Vue+FastAPI+Mysql
