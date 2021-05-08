@@ -1,2 +1,2 @@
 # miniPan
-Vue+FastAPI+Mysql
+Vue+FastAPI+Nginx
